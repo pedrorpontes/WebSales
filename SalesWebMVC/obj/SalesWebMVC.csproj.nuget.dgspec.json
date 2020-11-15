@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Pedro\\Desktop\\C#\\websales\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {}
+    "C:\\Users\\Pedro\\Desktop\\Nova pasta\\WebSales\\WebSales\\SalesWebMVC\\SalesWebMVC.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Pedro\\Desktop\\C#\\websales\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj": {
+    "C:\\Users\\Pedro\\Desktop\\Nova pasta\\WebSales\\WebSales\\SalesWebMVC\\SalesWebMVC.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\C#\\websales\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectUniqueName": "C:\\Users\\Pedro\\Desktop\\Nova pasta\\WebSales\\WebSales\\SalesWebMVC\\SalesWebMVC.csproj",
         "projectName": "SalesWebMVC",
-        "projectPath": "C:\\Users\\Pedro\\Desktop\\C#\\websales\\SalesWebMVC\\SalesWebMVC\\SalesWebMVC.csproj",
+        "projectPath": "C:\\Users\\Pedro\\Desktop\\Nova pasta\\WebSales\\WebSales\\SalesWebMVC\\SalesWebMVC.csproj",
         "packagesPath": "C:\\Users\\Pedro\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Pedro\\Desktop\\C#\\websales\\SalesWebMVC\\SalesWebMVC\\obj\\",
+        "outputPath": "C:\\Users\\Pedro\\Desktop\\Nova pasta\\WebSales\\WebSales\\SalesWebMVC\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Pedro\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -94,6 +94,10 @@
             "Microsoft.VisualStudio.Web.CodeGeneration.Design": {
               "target": "Package",
               "version": "[2.1.10, )"
+            },
+            "Pomelo.EntityFrameworkCore.MySql": {
+              "target": "Package",
+              "version": "[2.1.1, )"
             }
           },
           "imports": [
